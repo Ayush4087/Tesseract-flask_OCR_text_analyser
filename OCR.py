@@ -7,7 +7,7 @@ name = name_arr[0]
 file_name = os.path.join("Database/",name)
 
 img = Image.open(file_name)
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\amishra3\AppData\Local\Continuum\anaconda3\Lib\site-packages\Tesseract-OCR\tesseract'
+pytesseract.pytesseract.tesseract_cmd = r'add your tesseract path here'
 text = pytesseract.image_to_string(img,lang='eng')
 
 name_txt = name.split(".")[0]+".txt"
