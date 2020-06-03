@@ -1,0 +1,55 @@
+—————
+
+DATASET
+
+ 
+
+ 
+
+ 
+
+| Malign |
+
+Normal
+
+| Benign |
+
+ 
+
+ 
+
+ 
+
+a
+
+Data
+
+ 
+
+Test
+
+ 
+
+Augmentation
+
+Any PreTrained
+Model
+(vGG19)
+
+ 
+
+ 
+
+Train
+
+ 
+
+——_1—_
+
+Final Trained Model
+
+ 
+
+ 
+
+Train
